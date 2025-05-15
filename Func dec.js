@@ -1,4 +1,5 @@
 //function declaration
+//example
 function nam3(name){
     console.log("My name is",name);
     
